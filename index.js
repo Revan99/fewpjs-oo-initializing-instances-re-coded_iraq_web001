@@ -15,3 +15,5 @@ class Dinner{
     
   }
 }
+ let b = new Breakfast();
+ console.log(b);
