@@ -16,4 +16,4 @@ class Dinner{
   }
 }
  let b = new Breakfast('eggs','tea');
- console.log(b._drink);
+ console.log(b._food);
